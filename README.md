@@ -2,7 +2,7 @@
 
 # ✨ Latest News
 *   [03/26/2024]: Release the CPTS dataset.
-*   [05/24/2024]: Release the [tech report](https://arxiv.org/abs/2305.14790).
+*   [05/24/2023]: Release the [tech report](https://arxiv.org/abs/2305.14790).
 
 
 # ⚡ Introduction
